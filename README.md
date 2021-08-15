@@ -47,19 +47,11 @@ GitHub: [in-future-world](https://github.com/in-future-world) <br />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/infutureworld"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infutureworld" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=in-future-world&show_icons=true&locale=en&layout=compact" alt="in-future-world" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&locale=en" alt="in-future-world" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&" alt="in-future-world" /></p>
 
 
 
 
-
-<!-- Actual text -->
-
-You can find me on <a target="_blank" href="https://twitter.com/in_future_world">
+<br>You can find me on <a target="_blank" href="https://twitter.com/in_future_world">
   <img alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/88558310/129485486-5fbaa4f6-dce2-4a3d-9ad0-de09abaf1afb.png" />
 </a>, or on  <a target="_blank" href="https://www.instagram.com/in_future_world">
   <img alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/88558310/129485437-411924e1-b7d0-4f28-a8ca-b3886cc98e8c.png" />
