@@ -5,7 +5,10 @@
 [![Years Badge](https://badges.pufler.dev/years/in-future-world)](https://github.com/in-future-world/)
 [![Repos Badge](https://badges.pufler.dev/repos/in-future-world)](https://github.com/in-future-world?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://github.com/in-future-world/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=0e75b6&style=flat" alt="in-future-world" /> </p>
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/in-future-world/)
+[![Follow](https://img.shields.io/github/followers/in-future-world)](https://github.com/in-future-world/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=brightgreen" alt="in-future-world" /> </p> 
+
 
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
@@ -15,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <a href="https://twitter.com/in_future_world" target="blank"><img src="https://img.shields.io/twitter/follow/in_future_world?logo=twitter&style=for-the-badge" alt="in_future_world" /></a> </p>
+<p align="left"> <a href="mailto:info@infutureworld.xyz" target="blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="in_future_world" /></a> </p>
 <a href="https://twitter.com/in_future_world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="in_future_world" height="30" width="40" /></a>
 <a href="https://instagram.com/in_future_world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="in_future_world" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCh5_VB1guUcc0mWAOc7etrA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="in world" height="30" width="40" /></a>
