@@ -2,12 +2,12 @@
   , Wellcome in Future World</h1>
 <h3 align="center">Future developer of India</h3>
 
-[![Years Badge](https://badges.pufler.dev/years/in-future-world)](https://github.com/in-future-world/)
-[![Repos Badge](https://badges.pufler.dev/repos/in-future-world)](https://github.com/in-future-world?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://github.com/in-future-world/)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/in-future-world/)
-[![Follow](https://img.shields.io/github/followers/in-future-world)](https://github.com/in-future-world/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=brightgreen" alt="in-future-world" /> </p> 
+
+
+<p  align="left">
+
+  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/in-future-world/)
+ <img src="https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=brightgreen" alt="in-future-world" /> </p> 
 
 
 
