@@ -2,10 +2,15 @@
   Wellcome in Future World</h1>
 <h3 align="center">A Future developer from India</h3>
 
+[![Years Badge](https://badges.pufler.dev/years/in-future-world)](https://github.com/in-future-world/)
+[![Repos Badge](https://badges.pufler.dev/repos/in-future-world)](https://github.com/in-future-world?tab=repositories)
+[![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://github.com/in-future-world/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=0e75b6&style=flat" alt="in-future-world" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=in-future-world" alt="in-future-world" /></a> </p>
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world)](https://github.com/in-future-world/)<img height="180em" src="https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=in-future-world)](https://github.com/in-future-world/)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,39 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&locale=en" alt="in-future-world" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&" alt="in-future-world" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Years Badge](https://badges.pufler.dev/years/in-future-world)](https://github.com/in-future-world/)
-[![Repos Badge](https://badges.pufler.dev/repos/in-future-world)](https://github.com/in-future-world?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/puf17640)](https://github.com/in-future-world/)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world)](https://github.com/in-future-world/)<img height="180em" src="https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=in-future-world)](https://github.com/in-future-world/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=in-future-world)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world&layout=compact)](https://github.com/in-future-world/)
-
-
-<a href="https://github.com/in-future-world/in-future-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=in-future-world&repo=in-future-world" />
-</a>
-<a href="https://github.com/in-future-world/in-future-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=in-future-world&repo=in-future-world" />
-</a>
