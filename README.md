@@ -3,14 +3,24 @@
 <p  align="left">
 
   [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/in-future-world/)
- <img src="https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=brightgreen" alt="in-future-world" /> </p> 
+ [![visiter](https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=brightgreen)](https://github.com/in-future-world/) </p> 
 I am student of class 12 of Jawahar Navodaya Vidyalaya Rudhauli Basti. 
 I am looking for part-time opportunities. I spend most of time on coding
-
-My Skills: Python / C-Sharp
+##
+**My Skills:** Python / C-Sharp
 
 - 🌱 I’m currently learning Python Coding Language  
 - 📫 You can reach me by : info@infutureworld.xyz and help.infutureworld@gmail.com 
+##
+
+### Something about me: 
+[![trophy](https://github-profile-trophy.vercel.app/?username=in-future-world)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&count_private=true)  
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=in-future-world&theme=dracula)](https://github.com/in-future-world)
+
+![GitHub metrics](https://metrics.lecoq.io/in-future-world)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,15 +32,6 @@ My Skills: Python / C-Sharp
 
 ### We:
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-### Something about me: 
-[![trophy](https://github-profile-trophy.vercel.app/?username=in-future-world)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&count_private=true)  
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=in-future-world&theme=dracula)](https://github.com/in-future-world)
-
-![GitHub metrics](https://metrics.lecoq.io/in-future-world)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
 
 <h3 align="left">Contact Us:</h3>
 
