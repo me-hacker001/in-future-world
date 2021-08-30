@@ -3,7 +3,7 @@
 <p  align="left">
 
   [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/in-future-world/)
- [![visiter](https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=brightgreen)](https://github.com/in-future-world/) </p> 
+ [![visiter](https://komarev.com/ghpvc/?username=in-future-world&label=Profile%20views&color=blue)](https://github.com/in-future-world/) </p> 
 I am student of class 12 of Jawahar Navodaya Vidyalaya Rudhauli Basti. 
 I am looking for part-time opportunities. I spend most of time on coding
 ##
