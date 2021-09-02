@@ -15,13 +15,15 @@ help.infutureworld@gmail.com and [+1 (201) 422-2538](https://wa.me/message/RJSMU
 ##
 
 ### Something about me: 
-[![trophy](https://github-profile-trophy.vercel.app/?username=in-future-world)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=in-future-world)](https://github.com/in-future-world)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=in-future-world)](https://github.com/in-future-world)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=in-future-world&show_icons=true&count_private=true)](https://github.com/in-future-world)
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=in-future-world&theme=dracula)](https://github.com/in-future-world)
 
-![GitHub metrics](https://metrics.lecoq.io/in-future-world)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
+[![GitHub metrics](https://metrics.lecoq.io/in-future-world)](https://github.com/in-future-world)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=in-future-world&theme=blue-green)](https://github.com/in-future-world/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
